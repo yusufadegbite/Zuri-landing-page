@@ -1,0 +1,507 @@
+*, *::before, *::after {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    
+}
+
+
+body {
+    font-family: Monospace;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    background: #fff;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.page1 {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background: url("https://zuri.team/img/hero-bg.svg");
+}
+
+#zuri-team {
+    color: black;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 26px;
+    font-weight: 500;
+}
+
+#dot {
+    color: red;
+}
+
+#learn {
+    color: #0F1B02;
+    text-align: center;
+    margin-top: 70px;
+    font-size: 27px;
+    font-weight: 603;
+    padding: 26px;
+}
+
+#note {
+    text-align: center;
+    font-size: 15px;
+    padding: 15px;
+    margin-bottom: 20px;
+    color: black;
+    font-family: Serif;
+    font-weight: 150;
+    line-height: 29px;
+}
+
+#highlight a {
+    color: red;
+    text-decoration: none;
+}
+
+#new-industry {
+    padding: 14px;
+    background: red;
+    color: white;
+    align-self: center;
+    border: 0;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Georgia;
+    font-weight: 300;
+    
+}
+
+#new-industry a {
+    text-decoration: none;
+    color: white;
+}
+
+#new-industry a:hover {
+    color: red;
+}
+
+
+
+#new-industry:hover {
+      background: white;
+      border: 1px solid red;
+      color: #FF0000;
+}
+
+
+
+
+#exp-industry {
+    padding: 16px;
+    background: white;
+    color: red;
+    align-self: center;
+    border: 1px solid red;
+    font-size: 16px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: Georgia;
+    margin-top: 15px;
+    font-weight: 320;
+    margin-bottom: 24px;
+}
+
+
+#exp-industry:hover {
+    background: red;
+    color: white;
+    border: 0;
+}
+
+#exp-industry a {
+    text-decoration: none;
+    color: red;
+}
+
+#exp-industry a:hover {
+    color: white;
+}
+
+
+#note2 {
+    width: 100%;
+    height: auto;
+    background: white;
+    text-align: center;
+}
+
+#by-zuri {
+    color: red;
+    align-self: center;
+    font-size: 20px;
+    padding: 40px;
+    margin-top: 40px;
+    word-spacing: 0.005px;
+}
+
+#cater {
+    text-align: center;
+    color: black;
+    font-size: 23px;
+    line-height: 40px;
+    font-family: Georgia;
+    font-weight: 150;
+    padding: 25px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+#training-div {
+    width: 85%;
+    height: auto;
+    background: #FFFAFA;
+    margin-top: 25px;
+    margin-left: 30px;
+    
+}
+
+#zuri-training {
+    margin-left: 30px;
+    margin-top: 35px;
+    text-align: center;
+    line-height: 90px;
+    color: black;
+    background: white;
+    text-align: center;
+    padding: 6px;
+    font-size: ;
+    width: 37%;
+    height: 13.5%;
+    
+}
+
+#zuri-train {
+    margin-left: 30px;
+    margin-top: 35px;
+    text-align: center;
+    line-height: 95px;
+    color: black;
+    background: white;
+    text-align: center;
+    padding: 6px;
+    font-size: ;
+    width: 41%;
+    height: 15%;
+}
+
+
+#zuri-train h2 {
+    font-size: 14px;
+   
+}
+
+#zuri-training h2 {
+    font-size: 14px;
+}
+
+#training-note {
+    text-align: left;
+    margin-left: 30px;
+    font-size: 16px;
+    color: black;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    font-family: Georgia;
+    line-height: 35px;
+    padding-right: 46px;
+    font-weight: 200;
+}
+
+#training-note a {
+    text-decoration: none;
+    color: red;
+}
+
+#training-div:hover {
+    transform: scale(1.02);
+}
+
+.many {
+    text-align: center;
+    font-family: Georgia;
+}
+
+#zt-down {
+      color: black;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 26px;
+    font-weight: 500;
+}
+
+#link {
+    font-size: 25px;
+    margin-top: 15px;
+    font-weight: 500;
+}
+
+#store a {
+    text-decoration: none;
+    color: red;
+    font-size: 18px;
+}
+
+#blog a {
+    text-decoration: none;
+    color: red;
+    font-size: 18px;
+}
+
+#contact {
+    font-size: 25px;
+    margin-top: 35px;
+    font-weight: 500;
+}
+
+#address {
+    font-weight: 10;
+    font-size: 18px;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-family: Serif;
+    padding-top: 15px;
+    color: darkgray;
+    
+}
+
+#mail {
+    margin-top: 15px;
+}
+
+#mail a {
+    color: red;
+    text-decoration: none;
+    font-size: 18px;
+    
+    
+}
+
+#follow {
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 25px;
+}
+ 
+.center {
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    height: 3rem;
+    margin-bottom: 20px;
+}
+
+.center a {
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+
+}
+
+.fa-facebook {
+    background: #3b5998;
+    color: white;
+    padding-top: 4px;
+    padding-left: 5px;
+    padding-right: 2px;
+    height: 17px;
+    font-size: 18px;
+}
+
+.fa-twitter {
+    color: #11A0FF;
+}
+
+.fa-instagram {
+   
+    color: #C13584;
+}
+
+.fa-linkedin {
+    background: #005FFF;
+    color: white;
+    padding-top: 1px;
+    padding-bottom: ;
+    padding-right: 2px;
+    padding-left: 2px;
+    font-size: 16px;
+    
+}
+
+hr {
+    width: 90%;
+    color: gray;
+    margin: 20px;
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    font-size: 18px;
+    display: block;
+    font-family: ;
+    padding-bottom: 100px;
+    font-weight: 500;
+    padding-left: 90px;
+    padding-right: 90px;
+    word-spacing: 0.01px;
+}
+
+@media screen and (min-width: 900px){
+
+#zuri-team {
+    margin-top: 60px;
+    font-size: 28px;
+    font-weight: 550;
+}
+
+#learn {
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: 500;
+    padding: 30px;
+}
+
+#note {
+   font-size: 8px;
+    padding: 50px;
+    margin-bottom: 20px;
+    color: black;
+    font-family: Serif;
+    font-weight: 150;
+    line-height: 30px; 
+}
+
+#new-industry {
+    font-size: 18px;
+    font-weight: 320;
+    padding: 18px;
+    padding-left: 27px;
+    padding-right: 27px;
+    margin-bottom: 300px;
+}
+
+#by-zuri {
+    font-size: 16px;
+    margin-top: 25px;
+}
+
+#note2 {
+    margin-bottom: 80px;
+}
+
+#cater {
+    font-size: 18px;
+    padding-right: 140px;
+    padding-left: 140px;
+    margin-top: 10px;
+}
+
+#training-div {
+    width: 96%;
+    margin-left: 18px;
+    margin-bottom: 10px;
+}
+
+#zuri-training {
+    margin-left: 40px;
+     width: 15%;
+    height: 5.5%;
+}
+
+#zuri-training h2 {
+    font-size: 16px;
+}
+
+#zuri-train {
+    width: 18%;
+    height: 6%;
+    margin-left: 40px;
+}
+
+#zuri-train h2 {
+    font-size: 16px;
+}
+
+#training-note {
+    font-size: 7px;
+    padding-right: 10px;
+    margin-left: 40px;
+    margin-bottom: 7px;
+}
+
+.many {
+    display: grid;
+    width: 98%;
+    text-align: left;
+    
+    grid-template-columns: 1fr .8fr 1.8fr 1fr;
+    grid-gap: 15px;
+    margin-left: 10px;
+}
+
+#zt-down {
+    margin-top: 32px;
+    font-size: 12px;
+}
+
+#address {
+    padding: 0;
+    font-size: 10px;
+    margin-top: 10px;
+}
+#contact {
+    font-size: 12px;
+    
+    
+}
+#follow {
+    font-size: 12px;
+    margin-top: 34px;
+}
+#store a {
+    font-size: 9px;
+    padding-top: 2px;
+}
+#blog a {
+    font-size: 9px;
+    padding-top: 5px;
+}
+#link {
+    font-size: 12px;
+    margin-top: 32px;
+}
+
+#mail a {
+    font-size: 9px;
+    margin-top: 8px;
+}
+
+.center {
+    justify-content: left;
+    align-content: left;
+    margin-top: 10px;
+}
+
+.    font-size: 28px;
+    padding: 8px;
+}
+
+hr {
+    width: 95%;
+    margin-left: 22px;
+}
+
+.fa-facebook {
+    height: 22px;
+}
+}
